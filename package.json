@@ -11,8 +11,8 @@
     "main": "appstart.js",
     "banner": "/** @jsx React.DOM */",
     "files": [
-      "./local/react/build/react.js",
-      "./local/react/build/JSXTransformer.js"
+      "./local/React/react.js",
+      "./local/React/JSXTransformer.js"
     ]
   }
 }
