@@ -1,0 +1,18 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.0",
+  "description": "react-boilerplate",
+  "main": "appstart.js",
+  "license": "MIT",
+  "compy": {
+    "dependencies": {
+    },
+    "paths": ["local"],
+    "main": "appstart.js",
+    "banner": "/** @jsx React.DOM */",
+    "files": [
+      "./local/react/build/react.js",
+      "./local/react/build/JSXTransformer.js"
+    ]
+  }
+}
