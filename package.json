@@ -1,18 +1,21 @@
 {
-  "name": "react-boilerplate",
-  "version": "0.0.0",
-  "description": "react-boilerplate",
-  "main": "appstart.js",
-  "license": "MIT",
-  "compy": {
-    "dependencies": {
-    },
-    "paths": ["local"],
-    "main": "appstart.js",
-    "banner": "/** @jsx React.DOM */",
-    "files": [
-      "./local/React/react.js",
-      "./local/React/JSXTransformer.js"
-    ]
+  "name": "component-jsx",
+  "version": "0.5.0",
+  "description": "component-jsx =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edjafarov/component-jsx.git"
+  },
+  "author": "Eldar Djafarov <djkojb@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/edjafarov/component-jsx/issues"
+  },
+  "dependencies": {
+    "react-tools": "0.5.x"
   }
 }
